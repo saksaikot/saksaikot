@@ -12,9 +12,22 @@
 ## PERSONAL PROJECTS
 
 - MERN Stack
-  - Bohubrihi ecommerce site with sslcommerz payment, [Code](https://github.com/saksaikot/node-basic), [Demo](https://mern-e-comm.netlify.app/)
+  - Bohubrihi ecommerce site with sslcommerz payment, [Code](https://github.com/saksaikot/node-basic), [Live](https://mern-e-comm.netlify.app/)
 - HTML and CSS
-  - Responsive blog site, [Code](https://github.com/saksaikot/css-demystified), [Demo](https://saksaikot.github.io/css-demystified/)
+  - Responsive blog site, [Code](https://github.com/saksaikot/css-demystified), [Live](https://saksaikot.github.io/css-demystified/)
+- Next.js
+  - Blog, [Code](https://github.com/saksaikot/next-js-by-example), [Live](https://next-js-by-example.vercel.app/)
+  - Shop, [Code](https://github.com/saksaikot/next-js-by-example), - [Live](https://next-shop-one-beta.vercel.app/)
+- React
+  - Hotel booking with firebase authentication - [Code](https://github.com/saksaikot/react-hotel-booking)
+  - Photo gallery with feedback - [Code](https://github.com/saksaikot/react-photo-gallery)
+  - Cooking with react - [Code](https://github.com/saksaikot/cooking-with-react)
+- JavaScript
+  o Product cart, [Code](https://github.com/saksaikot/bohubrihi-assignments/tree/master/1.js/1.product%20cart), [Live](https://saksaikot.github.io/bohubrihi-assignments/1.js/1.product%20cart/)
+  o Expression validation, [Code](https://github.com/saksaikot/bohubrihi-assignments/tree/master/1.js/2.Expression%20Validation), [Live](https://saksaikot.github.io/bohubrihi-assignments/1.js/2.Expression%20Validation/)
+  o Number Guesser game, [Code](https://github.com/saksaikot/bohubrihi-assignments/tree/master/1.js/3.Number%20Guesser%20Game), [Live](https://saksaikot.github.io/bohubrihi-assignments/1.js/3.Number%20Guesser%20Game/index.html)
+- Laravel:
+  o Private CMS with API, [Code](https://github.com/saksaikot/cl-milton), [Live](https://cl.iusa.pw/)
 
 
 <h3 align="left">Connect with me:</h3>
