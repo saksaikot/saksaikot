@@ -23,11 +23,12 @@
   - Photo gallery with feedback - [Code](https://github.com/saksaikot/react-photo-gallery)
   - Cooking with react - [Code](https://github.com/saksaikot/cooking-with-react)
 - JavaScript
-  o Product cart, [Code](https://github.com/saksaikot/bohubrihi-assignments/tree/master/1.js/1.product%20cart), [Live](https://saksaikot.github.io/bohubrihi-assignments/1.js/1.product%20cart/)
-  o Expression validation, [Code](https://github.com/saksaikot/bohubrihi-assignments/tree/master/1.js/2.Expression%20Validation), [Live](https://saksaikot.github.io/bohubrihi-assignments/1.js/2.Expression%20Validation/)
-  o Number Guesser game, [Code](https://github.com/saksaikot/bohubrihi-assignments/tree/master/1.js/3.Number%20Guesser%20Game), [Live](https://saksaikot.github.io/bohubrihi-assignments/1.js/3.Number%20Guesser%20Game/index.html)
+   - Product cart, [Code](https://github.com/saksaikot/bohubrihi-assignments/tree/master/1.js/1.product%20cart), [Live](https://saksaikot.github.io/bohubrihi-assignments/1.js/1.product%20cart/)
+   - Expression validation, [Code](https://github.com/saksaikot/bohubrihi-assignments/tree/master/1.js/2.Expression%20Validation), [Live](https://saksaikot.github.io/bohubrihi-assignments/1.js/2.Expression%20Validation/)
+   - Number Guesser game, [Code](https://github.com/saksaikot/bohubrihi-assignments/tree/master/1.js/3.Number%20Guesser%20Game), [Live](https://saksaikot.github.io/bohubrihi-assignments/1.js/3.Number%20Guesser%20Game/index.html)
 - Laravel:
   o Private CMS with API, [Code](https://github.com/saksaikot/cl-milton), [Live](https://cl.iusa.pw/)
+
 
 
 <h3 align="left">Connect with me:</h3>
